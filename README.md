@@ -2,11 +2,11 @@
 
 A simple java calculator application using java swing GUI toolkit for java. Allowing basic arithmetic calculations
 
-- AUTHOR: OKUSANYA SAMUEL AYODEJI
-- MATRIC NO: U23AE1056
+- AUTHOR: MAITAMA HAFSAT INUWA
+- MATRIC NO: U23AE1057
 - DEPARTMENT: AEROSPACE ENGINERRING
-- GITHUB ACC: [@saintsamuelle](https://github.com/saintsamuelle)
-- GITHUB REPO: [SwingCalculator](https://github.com/saintsamuelle/swing-calculator-U23AE1056)
+- GITHUB ACC: [@Maitama357](https://github.com/Maitama357)
+- GITHUB REPO: [SwingCalculator](https://github.com/Maitama357/swing-calculator-U23AE1057)
 
 ## SCREENSHOT
 ![calculator-img](/images/calculator-pic.png)
